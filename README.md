@@ -1,2 +1,2 @@
 # Databricks-exercises
-This repository is all the exercises i was given in class to work on and i did not :(
+This is all my hand written Exercises that i have completed on both Introduction to SQL and Advanced SQL
